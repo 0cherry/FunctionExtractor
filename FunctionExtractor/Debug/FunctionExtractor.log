@@ -1,0 +1,7 @@
+﻿  PEParser.c
+c:\users\user\documents\visual studio 2015\projects\functionextractor\functionextractor\peparser.c(106): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\functionextractor\functionextractor\peparser.c(134): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\documents\visual studio 2015\projects\functionextractor\functionextractor\peparser.c(133): warning C4474: 'fprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\user\documents\visual studio 2015\projects\functionextractor\functionextractor\peparser.c(133): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 4개가 제공되었습니다.
+  FunctionExtractor.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\FunctionExtractor\Debug\FunctionExtractor.exe
+  FunctionExtractor.vcxproj -> C:\Users\User\documents\visual studio 2015\Projects\FunctionExtractor\Debug\FunctionExtractor.pdb (Full PDB)
